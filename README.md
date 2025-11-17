@@ -55,5 +55,7 @@ Please visit web: [QuAIR-Platform](https://quairkit.com/)
 }
 ```
 
+## Contact
+See emails in the main paper
 
 
