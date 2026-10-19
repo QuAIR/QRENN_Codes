@@ -1,0 +1,10 @@
+{
+  "publication_work": "Archive existing records only; no scientific computation rerun.",
+  "native_manifest_hash_mismatches": [],
+  "source_versions_recovered": 46,
+  "local_file_inventory": 10110,
+  "public_restore": "pending publication and complete anonymous download",
+  "scientific_retraining": false,
+  "prediction_replay": false,
+  "statistics_recomputed": false
+}

@@ -1,0 +1,4949 @@
+{
+  "table_II_cases": [
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 3,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 5,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 7,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 3,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 5,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 7,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4001
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4002
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4003
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4004
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4005
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4006
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4007
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4008
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4009
+    },
+    {
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1101,
+      "init_seed": 4010
+    }
+  ],
+  "universal_training_cases": [
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_pauli_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_pauli_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_pauli_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_pauli_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_pauli_n8_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "pauli",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_pauli_n8_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_involutory_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_involutory_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_involutory_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_involutory_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_involutory_n8_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_involutory_n8_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n4_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 6,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n6_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1001"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1002"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1003"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1004"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1005"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1006"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1007"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1008"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1009"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g2_diagonal_n8_d1010"
+    },
+    {
+      "group": "g2",
+      "family": "diagonal",
+      "n": 8,
+      "m": 2,
+      "T": 6,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g2_diagonal_n8_d1010"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g3_zero_d1001"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g3_zero_d1001"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "g3_plus_d1001"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "g3_plus_d1001"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g3_zero_d1002"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g3_zero_d1002"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "g3_plus_d1002"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "g3_plus_d1002"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g3_zero_d1003"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g3_zero_d1003"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "g3_plus_d1003"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "g3_plus_d1003"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g3_zero_d1004"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g3_zero_d1004"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "g3_plus_d1004"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "g3_plus_d1004"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g3_zero_d1005"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g3_zero_d1005"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "g3_plus_d1005"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "g3_plus_d1005"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g3_zero_d1006"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g3_zero_d1006"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1006,
+      "init_seed": 2001,
+      "data": "g3_plus_d1006"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1006,
+      "init_seed": 2002,
+      "data": "g3_plus_d1006"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g3_zero_d1007"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g3_zero_d1007"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1007,
+      "init_seed": 2001,
+      "data": "g3_plus_d1007"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1007,
+      "init_seed": 2002,
+      "data": "g3_plus_d1007"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g3_zero_d1008"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g3_zero_d1008"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1008,
+      "init_seed": 2001,
+      "data": "g3_plus_d1008"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1008,
+      "init_seed": 2002,
+      "data": "g3_plus_d1008"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g3_zero_d1009"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g3_zero_d1009"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1009,
+      "init_seed": 2001,
+      "data": "g3_plus_d1009"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1009,
+      "init_seed": 2002,
+      "data": "g3_plus_d1009"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g3_zero_d1010"
+    },
+    {
+      "group": "g3",
+      "family": "zero",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g3_zero_d1010"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1010,
+      "init_seed": 2001,
+      "data": "g3_plus_d1010"
+    },
+    {
+      "group": "g3",
+      "family": "plus",
+      "n": 8,
+      "m": 1,
+      "T": 10,
+      "data_seed": 1010,
+      "init_seed": 2002,
+      "data": "g3_plus_d1010"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e1_n8_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e1_n8_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e1_n8_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e1_n8_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e1_n8_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e1_n8_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e1_n8_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e1_n8_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e1_n8_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 8,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e1_n8_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e1_n12_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e1_n12_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e1_n12_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e1_n12_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e1_n12_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e1_n12_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e1_n12_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e1_n12_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e1_n12_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 12,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e1_n12_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e1_n16_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e1_n16_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e1_n16_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e1_n16_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e1_n16_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e1_n16_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e1_n16_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e1_n16_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e1_n16_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 16,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e1_n16_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e1_n18_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e1_n18_d1001"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e1_n18_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e1_n18_d1002"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e1_n18_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e1_n18_d1003"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e1_n18_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e1_n18_d1004"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e1_n18_d1005"
+    },
+    {
+      "group": "e1",
+      "family": "local_involutory",
+      "n": 18,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e1_n18_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e2_T2_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e2_T2_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e2_T4_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e2_T4_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1001,
+      "init_seed": 2001,
+      "data": "e2_T8_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1001,
+      "init_seed": 2002,
+      "data": "e2_T8_d1001"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e2_T2_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e2_T2_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e2_T4_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e2_T4_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1002,
+      "init_seed": 2001,
+      "data": "e2_T8_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1002,
+      "init_seed": 2002,
+      "data": "e2_T8_d1002"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e2_T2_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e2_T2_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e2_T4_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e2_T4_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1003,
+      "init_seed": 2001,
+      "data": "e2_T8_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1003,
+      "init_seed": 2002,
+      "data": "e2_T8_d1003"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e2_T2_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e2_T2_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e2_T4_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e2_T4_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1004,
+      "init_seed": 2001,
+      "data": "e2_T8_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1004,
+      "init_seed": 2002,
+      "data": "e2_T8_d1004"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e2_T2_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 2,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e2_T2_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e2_T4_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 4,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e2_T4_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1005,
+      "init_seed": 2001,
+      "data": "e2_T8_d1005"
+    },
+    {
+      "group": "e2",
+      "family": "involutory",
+      "n": 6,
+      "m": 2,
+      "T": 8,
+      "data_seed": 1005,
+      "init_seed": 2002,
+      "data": "e2_T8_d1005"
+    }
+  ],
+  "gradient_cases": [
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1001,
+      "data": "b08_pauli_n4_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1002,
+      "data": "b08_pauli_n4_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1003,
+      "data": "b08_pauli_n4_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1004,
+      "data": "b08_pauli_n4_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1005,
+      "data": "b08_pauli_n4_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1001,
+      "data": "b08_pauli_n6_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1002,
+      "data": "b08_pauli_n6_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1003,
+      "data": "b08_pauli_n6_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1004,
+      "data": "b08_pauli_n6_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1005,
+      "data": "b08_pauli_n6_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1001,
+      "data": "b08_pauli_n8_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1002,
+      "data": "b08_pauli_n8_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1003,
+      "data": "b08_pauli_n8_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1004,
+      "data": "b08_pauli_n8_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "pauli",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1005,
+      "data": "b08_pauli_n8_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1001,
+      "data": "b08_involutory_n4_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1002,
+      "data": "b08_involutory_n4_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1003,
+      "data": "b08_involutory_n4_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1004,
+      "data": "b08_involutory_n4_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1005,
+      "data": "b08_involutory_n4_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1001,
+      "data": "b08_involutory_n6_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1002,
+      "data": "b08_involutory_n6_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1003,
+      "data": "b08_involutory_n6_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1004,
+      "data": "b08_involutory_n6_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1005,
+      "data": "b08_involutory_n6_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1001,
+      "data": "b08_involutory_n8_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1002,
+      "data": "b08_involutory_n8_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1003,
+      "data": "b08_involutory_n8_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1004,
+      "data": "b08_involutory_n8_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "involutory",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1005,
+      "data": "b08_involutory_n8_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1001,
+      "data": "b08_diagonal_n4_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1002,
+      "data": "b08_diagonal_n4_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1003,
+      "data": "b08_diagonal_n4_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1004,
+      "data": "b08_diagonal_n4_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 4,
+      "m": 2,
+      "T": 40,
+      "data_seed": 1005,
+      "data": "b08_diagonal_n4_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1001,
+      "data": "b08_diagonal_n6_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1002,
+      "data": "b08_diagonal_n6_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1003,
+      "data": "b08_diagonal_n6_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1004,
+      "data": "b08_diagonal_n6_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 6,
+      "m": 3,
+      "T": 60,
+      "data_seed": 1005,
+      "data": "b08_diagonal_n6_d1005"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1001,
+      "data": "b08_diagonal_n8_d1001"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1002,
+      "data": "b08_diagonal_n8_d1002"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1003,
+      "data": "b08_diagonal_n8_d1003"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1004,
+      "data": "b08_diagonal_n8_d1004"
+    },
+    {
+      "group": "b08",
+      "family": "diagonal",
+      "n": 8,
+      "m": 3,
+      "T": 80,
+      "data_seed": 1005,
+      "data": "b08_diagonal_n8_d1005"
+    }
+  ],
+  "diagonal_control_cases": [
+    {
+      "arm": "plus_probability",
+      "init_seed": 4001
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4002
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4003
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4004
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4005
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4006
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4007
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4008
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4009
+    },
+    {
+      "arm": "plus_probability",
+      "init_seed": 4010
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4001
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4002
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4003
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4004
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4005
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4006
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4007
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4008
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4009
+    },
+    {
+      "arm": "zero_probability",
+      "init_seed": 4010
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4001
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4002
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4003
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4004
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4005
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4006
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4007
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4008
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4009
+    },
+    {
+      "arm": "mixed_residual",
+      "init_seed": 4010
+    }
+  ],
+  "iris_probe_initializations": [
+    5001,
+    5002,
+    5003,
+    5004,
+    5005,
+    5006,
+    5007,
+    5008,
+    5009,
+    5010
+  ],
+  "legacy_finite_measurement_settings": {
+    "T": [
+      2,
+      4,
+      8
+    ],
+    "baseline_probability": "ancilla-X measurement probability, not calibrated class probability",
+    "branches": [
+      "coherent",
+      "depolarizing"
+    ],
+    "data_seeds": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ],
+    "grids": {
+      "coherent": [
+        0.0,
+        0.01,
+        0.03,
+        0.1
+      ],
+      "depolarizing": [
+        0.0,
+        0.0001,
+        0.001,
+        0.005,
+        0.01
+      ]
+    },
+    "init_seeds": [
+      2001,
+      2002
+    ],
+    "no_propagation": true,
+    "no_training": true,
+    "query_budget": "QRENN T*S; baseline 2*floor(T*S/2)",
+    "random_stream": "sample/model/physical branch/strength/S/shot seed",
+    "shot_seeds": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4006,
+      4007,
+      4008,
+      4009,
+      4010
+    ],
+    "shots": [
+      512,
+      2048,
+      8192
+    ],
+    "statistical_unit": "dataset seed after shot and init nesting",
+    "strict_threshold": true
+  },
+  "note": "This is a navigation index. Original protocols, sample identities, data-generating keys, measurement streams and frozen source remain in the archive. See records-manifest.json."
+}

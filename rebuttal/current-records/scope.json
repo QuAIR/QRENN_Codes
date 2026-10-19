@@ -1,0 +1,55 @@
+{
+  "manuscript_commit": "a344097897f36291a7a46fd18f462a293a874443",
+  "scope": "Existing records used by the current manuscript and rebuttal, their frozen inputs/baselines/source identities, and the exact legacy noise records retained before removing redundant expanded local copies.",
+  "new_scientific_execution": false,
+  "tabular_datasets": "Phishing, HTRU2, Rice remain in the separate rebuttal-tabular-2026-10-19 release. No other exploratory tabular dataset is added.",
+  "historical_figure_5a": "Original per-run records will be supplied separately by the authors; they are not included in or verified by this release.",
+  "other_historical_results": "Available arrays, figures and code do not establish recovery of missing historical per-run data.",
+  "groups": {
+    "universal-current": [
+      2931,
+      701366362
+    ],
+    "hamiltonian-table-II": [
+      1281,
+      150813096
+    ],
+    "prxq-diagonal-probe-loss-2026-10-16": [
+      333,
+      12825087
+    ],
+    "prxq-iris-probe-diagnostic-2026-10-16": [
+      1171,
+      7605953
+    ],
+    "retained-inputs": [
+      3690,
+      1384208958
+    ],
+    "legacy-noise-retention": [
+      471,
+      6124631783
+    ],
+    "frozen-source": [
+      7,
+      48816
+    ],
+    "manuscript-records": [
+      177,
+      18189218
+    ],
+    "historical-provenance": [
+      2,
+      3803
+    ],
+    "historical-source": [
+      47,
+      1546332
+    ]
+  },
+  "source_versions": {
+    "expected": 46,
+    "available": 46,
+    "missing": []
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "asset": "current-records-20261019.tar.xz",
+  "bytes": 2036241532,
+  "sha256": "7301b9fce8bfc422dfac84b9903830d88423296d4caddb046fd9d2ee8f58ef9d",
+  "manifest_sha256": "1184748ab32b0403ccc6a9aa77b01100d6e6cb0cc71e450c0bb0f8f41abace94",
+  "payload_files": 10110,
+  "logical_bytes": 8401239408,
+  "unique_blob_bytes": 8208783877,
+  "hardlink_files": 1072,
+  "elapsed_seconds": 173.00859689712524,
+  "tag": "rebuttal-current-records-2026-10-19",
+  "parts": [
+    {
+      "name": "current-records-20261019.tar.xz.part001",
+      "bytes": 16777216,
+      "sha256": "c5e23f3386e82e020d47eda610cbe04521a825b3943ce6955414d2459ebdae12",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part001"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part002",
+      "bytes": 16777216,
+      "sha256": "ac0dea730974bbadf1cd888c4256f6e3b4a83e05159e35fa27421082b360f200",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part002"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part003",
+      "bytes": 16777216,
+      "sha256": "a16201ebe700318c62d35cad84d4b62e22b64c06ba84066a29cec299122e66a5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part003"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part004",
+      "bytes": 16777216,
+      "sha256": "ea52a9f35b1bc72aff5f2c055a4bfb196cd18141a8c3dd16b40dce6f4938b441",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part004"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part005",
+      "bytes": 16777216,
+      "sha256": "ee90f1c81a276faaae8b3973979353d47b30aaef4bd5465d2fa5f201a2ff6226",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part005"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part006",
+      "bytes": 16777216,
+      "sha256": "ed927f93d280888c386bb983300eedeedd8db03683f7bde08bb2db5ccd3a0d10",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part006"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part007",
+      "bytes": 16777216,
+      "sha256": "2e9ce8580226d6aa2a0dc79d7e7313837c2f28fa802d299ea917ba8ba7558757",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part007"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part008",
+      "bytes": 16777216,
+      "sha256": "f291828f0b2031fb14d4191fc199608d8ccc55ac9d20938f4eda4b679d707986",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part008"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part009",
+      "bytes": 16777216,
+      "sha256": "a2dd31bc5c417a157c4fdbfca27cee8d5784de87dc05b1f839430d1a43287cc9",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part009"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part010",
+      "bytes": 16777216,
+      "sha256": "c1fb4882d8fe5a5898441e6e4764fd6aeb97e7fcc4b10b42a04e4532bc4cde31",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part010"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part011",
+      "bytes": 16777216,
+      "sha256": "2e6f12c7e4e6d933ff856b5e955cd9e51d62ef95e7dbfe1597e5c1cb444ccb42",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part011"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part012",
+      "bytes": 16777216,
+      "sha256": "932ea6b1e949291a795008db19167368ff5adeb6606a336f8f5673e2d6f10ba7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part012"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part013",
+      "bytes": 16777216,
+      "sha256": "771d481df586d621e771d86d645138d0812b347d481c4d5e951ab63a54605c7c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part013"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part014",
+      "bytes": 16777216,
+      "sha256": "3ea93096ab5e501012b4f95b3b5d438e0e95d58aab44fc4037973a1cd4e8f741",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part014"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part015",
+      "bytes": 16777216,
+      "sha256": "14bb027dd4609d35fae24d041a3f295d037100e53b8defb24381b6260ae3a361",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part015"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part016",
+      "bytes": 16777216,
+      "sha256": "af5732378a62a66ddb339f21780aab0423ffcdf2d1df30b8f08016725ccb3715",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part016"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part017",
+      "bytes": 16777216,
+      "sha256": "e1b928832092203f06a4e541295748740641c898cd7f02294b0059eb37ab4dc4",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part017"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part018",
+      "bytes": 16777216,
+      "sha256": "7e565de87468da32f7a4033c5b53b04b042db1d8a9e4f052809183601a7053d0",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part018"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part019",
+      "bytes": 16777216,
+      "sha256": "1ab92fde91e65b4bf5385615f24ea1f96e563aac0b34ced478f6448952a02d50",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part019"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part020",
+      "bytes": 16777216,
+      "sha256": "b542d7f5b69696bdf43f707c889de8d8524986a85f6b98803d4c2ffd2ef67871",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part020"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part021",
+      "bytes": 16777216,
+      "sha256": "c09fe6ce3d7482e8bbddf5ebca2566ee397e821e20d8f6f6c9fee66a09367f58",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part021"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part022",
+      "bytes": 16777216,
+      "sha256": "fc059e0590d5157fa528cdb0e28d7f0c88e1ccab8fa79ebd1628271045c06fae",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part022"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part023",
+      "bytes": 16777216,
+      "sha256": "a65c947556bb88b31b850c530d789fe38c84e45d6a6dc82c32c290113549383f",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part023"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part024",
+      "bytes": 16777216,
+      "sha256": "5fd9a7339b75765cb6f10bdb9c2fe78f252744110f08dae4ac41a25c4e5c3777",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part024"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part025",
+      "bytes": 16777216,
+      "sha256": "121fd90fd6fa3125474b5f1d4d5f30029edf5e3c6eab7be99a1efbaf2a3730b6",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part025"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part026",
+      "bytes": 16777216,
+      "sha256": "aa1a3f74f0a13758f3ca31b8fc87de007a9269f2e2e65f4bfe45dec93dadf5e8",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part026"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part027",
+      "bytes": 16777216,
+      "sha256": "133a2ad9115ee25d424896f1c2341ede1da56495498305f5069a90c847660da5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part027"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part028",
+      "bytes": 16777216,
+      "sha256": "d3e66d141b9be993fe7b83bc6761fb8f053da3b4679b4c5f8849ca048fc88792",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part028"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part029",
+      "bytes": 16777216,
+      "sha256": "df9454e3d216ab86b787f585f3c77c64cc2f11d9989ba2602f8ac4f65833aea1",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part029"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part030",
+      "bytes": 16777216,
+      "sha256": "ca6adeae6a649525026854009259d770cc4de77fe0000112d59378cf66f43444",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part030"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part031",
+      "bytes": 16777216,
+      "sha256": "2c7dc5833a9a2e81fca87c75f4620ecadae5b3ee28e08c68757c7a48e98b2c60",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part031"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part032",
+      "bytes": 16777216,
+      "sha256": "ebc2b5be03d397b1b1bde3489721259b3d6af1d7a3ee3769558861e9cdb4ddec",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part032"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part033",
+      "bytes": 16777216,
+      "sha256": "60de96ad3bd7882f74b7347fc5c037dd11a63dfbe6fb6485cafded64a1a6ed2c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part033"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part034",
+      "bytes": 16777216,
+      "sha256": "3efedeb786397dde04fd50accba73aedd66f1e3d1520ea5dca01cfa3ada143f9",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part034"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part035",
+      "bytes": 16777216,
+      "sha256": "ba8ed34112a1706cf3b730e2485eeccde6490a53b5ced76e40cbd886d8cd7453",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part035"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part036",
+      "bytes": 16777216,
+      "sha256": "bcb546a54e302bff5af13f23c011af22108e72b44200e8a86ec8726c8b10350e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part036"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part037",
+      "bytes": 16777216,
+      "sha256": "5eafc874873bd2ba32f0a9d32d7a20c5223ee3a9caf442310f2153ece302fd49",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part037"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part038",
+      "bytes": 16777216,
+      "sha256": "2ade14f58063eec273748b666dd4987b62952321ab2060701ac23f6f130e3cfe",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part038"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part039",
+      "bytes": 16777216,
+      "sha256": "b2a2b7d582d05b724e0ddf3a81ae6b3ff0399ce5cafdcd12a7e01a4c273ea3f5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part039"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part040",
+      "bytes": 16777216,
+      "sha256": "e17afd031cd60846d28f89490324c8e63a10385c584dce203b15bd0bc102163c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part040"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part041",
+      "bytes": 16777216,
+      "sha256": "4a29c6de8e1effe3547758b32cd1848a9af3281fa7a76896e688d89747780f6b",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part041"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part042",
+      "bytes": 16777216,
+      "sha256": "0920c82c49b4daa841153b1be1c4c030a45fdb66afe914e6c64abc1b3dfa8dcd",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part042"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part043",
+      "bytes": 16777216,
+      "sha256": "a1d52978636fdee24d60acb96065c3fdd83919c65d24bb84685d291bbec3657a",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part043"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part044",
+      "bytes": 16777216,
+      "sha256": "8eeb5e87582f47c91d0e2846062120daa8554efb695ae86d7babc27452acbb83",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part044"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part045",
+      "bytes": 16777216,
+      "sha256": "2cb3d9eb48bf908ef625b981b92aa610481a6aac3aeb51a599907fc48c2406d3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part045"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part046",
+      "bytes": 16777216,
+      "sha256": "318b0fbbb667a600c57782a92c87211580f0bcbd7edec17a96c9b3582d8e08c1",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part046"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part047",
+      "bytes": 16777216,
+      "sha256": "299bd1f3d96318a2929761c3eeb0827992bda47d693904f7ae2adba752f5716a",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part047"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part048",
+      "bytes": 16777216,
+      "sha256": "07a87bd81c6bd9abdaafa200443fade90a4c76a513f6dc2945c9cba59a1896b7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part048"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part049",
+      "bytes": 16777216,
+      "sha256": "82d07aab01ece8edfbc3c9408995d37ff3ba62975a3361d8c6e387cc3ca0259a",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part049"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part050",
+      "bytes": 16777216,
+      "sha256": "c82df5ecbed61846f5bac37fb08f0d04a8860a58644b262ae89c0f88ce7324b3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part050"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part051",
+      "bytes": 16777216,
+      "sha256": "8bfd52ae9f3b8893b7d19897c5d7efce4adfe6f0c26490ab9ff37a7e2223ee3b",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part051"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part052",
+      "bytes": 16777216,
+      "sha256": "d807ba4d832525d08d26a54ab7b79e1f963b6ffcf7701657d4fb44504a7b793d",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part052"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part053",
+      "bytes": 16777216,
+      "sha256": "7dfe39dfb4b1d51d4b08426535616ebf63a3e02c37e974d7481d45d3f51db2ae",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part053"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part054",
+      "bytes": 16777216,
+      "sha256": "5eb5688e521c30afa52746e3d3a049f54a050ebb1f4faae501c570c262c81f99",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part054"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part055",
+      "bytes": 16777216,
+      "sha256": "472e0dc15fd9dc05ec4a47b125fcc74a4e2457c11c5a95b336497ee5ff877094",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part055"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part056",
+      "bytes": 16777216,
+      "sha256": "c730996e2331eee6980377da166b0478dee379a0873e230f3d33f37dcd369ce3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part056"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part057",
+      "bytes": 16777216,
+      "sha256": "ce74cecd41c9c581b0d5d78a41ac2acc6af600328beeb3f369b784322baeb5a7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part057"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part058",
+      "bytes": 16777216,
+      "sha256": "bd7344810c6ba6fa722319b1c12d532582eebbe74558a5cd7d749131ca2accf0",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part058"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part059",
+      "bytes": 16777216,
+      "sha256": "d749466a6c0d878391eab20c2808235783300d8b1c088a71204dd20ec705cce5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part059"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part060",
+      "bytes": 16777216,
+      "sha256": "bcc74df7c157f095ae7ba614fbb66998165a82a845b21b6bca77367fe8fdb64e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part060"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part061",
+      "bytes": 16777216,
+      "sha256": "c8da31eaf4598144a940a2aea65a533de15cabcee0da2ab391953c66a1017c5e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part061"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part062",
+      "bytes": 16777216,
+      "sha256": "ce9faabe14ddeeb3c00f52631802905cab26bd31227545cc65c21ef6e63ae437",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part062"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part063",
+      "bytes": 16777216,
+      "sha256": "9f8b6372de620641be11438149a42cbd351014785a57e42c850d5b243723ce8f",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part063"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part064",
+      "bytes": 16777216,
+      "sha256": "72dcf74e1450d11f22380419823a2b782b03329761b2e0483dbe50e69685dc94",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part064"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part065",
+      "bytes": 16777216,
+      "sha256": "2a8e63644ef4b921c34dcc067fc94def26c0deb56a3191509753e7e74715362e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part065"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part066",
+      "bytes": 16777216,
+      "sha256": "20fdcd2e12db3c409a49f1ca8369063ad04950ed8fb8194a3e8d0a7ae2c8247b",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part066"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part067",
+      "bytes": 16777216,
+      "sha256": "2dd074d85b84b982431f81bf79cda2f5de24945632897bca8eee2a1900f464c5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part067"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part068",
+      "bytes": 16777216,
+      "sha256": "e573b8444d81f3b23faee4e700e8621157390d42c800de4ab91e439bc2b4b48e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part068"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part069",
+      "bytes": 16777216,
+      "sha256": "45b4ef580c15303bc85e158787a4b84ed9d36caa8ee30e9ad206090e982c50dc",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part069"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part070",
+      "bytes": 16777216,
+      "sha256": "7664a7d4b6fdeacb680b0e90250a2666896923440e1fa5dc0e4e8662d7cb5478",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part070"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part071",
+      "bytes": 16777216,
+      "sha256": "7d984ff37abe2c99c21bd6bd3b1734b5754b497cfda7066489f05e1558c163ea",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part071"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part072",
+      "bytes": 16777216,
+      "sha256": "e6d35e5bb7a7fdbad24643906b278521a178a238e90ee1b413d70668a5760bb7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part072"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part073",
+      "bytes": 16777216,
+      "sha256": "41717e70622e1e9f976c4d2fc0e60f44c32ac8cc1632e3228783a5984e12a83f",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part073"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part074",
+      "bytes": 16777216,
+      "sha256": "0387d8c45914313f5a85343493c3b2d8e69f3148fe9f2716f47f31d4d3d95509",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part074"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part075",
+      "bytes": 16777216,
+      "sha256": "e1a42b2b19cd49dff8455dc71f9c330e7781b68acdd38d137a2d91c43a9000a1",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part075"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part076",
+      "bytes": 16777216,
+      "sha256": "9febb0fdfc6cb0164ecd1d18a0b2a1959035a52ffcea22c13b0734581da7c63c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part076"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part077",
+      "bytes": 16777216,
+      "sha256": "e44b69a5eb7babbea557b09c8a44e1632a15c12f56a917927db77c036bd27272",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part077"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part078",
+      "bytes": 16777216,
+      "sha256": "1b120bddc3da9aacd60b0502235a5b45c656634b0311a93b81b56e205ff0f2f8",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part078"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part079",
+      "bytes": 16777216,
+      "sha256": "fe966a6baa644208bd7d5ea2d42dc540602c1eb83df5bdf73df95cceb8d7e7a8",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part079"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part080",
+      "bytes": 16777216,
+      "sha256": "c91628584c6c0eac9f81f81a3ccba9457c43a6625ea718ac50768c7df8a6a382",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part080"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part081",
+      "bytes": 16777216,
+      "sha256": "fbf6ba81acf1298d676713b4bdcb498939ab2eef46625b6dc6df524a5566d7e9",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part081"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part082",
+      "bytes": 16777216,
+      "sha256": "a70f57f6d8d786312023b3fd9e0a8695cfa29886630bfc65a154e8a8c4d1dd94",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part082"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part083",
+      "bytes": 16777216,
+      "sha256": "3c08bf2114aa92f39a55d00ec0719b2408904f3c94ff6792dc01ae3a58dd6844",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part083"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part084",
+      "bytes": 16777216,
+      "sha256": "467370677c1fa7e5cccb48e6f701424b45f01dfcb3eb68b2a0e1ebbca39226e3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part084"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part085",
+      "bytes": 16777216,
+      "sha256": "eb128ea31b7853ae2bd4bc13791505964d5607e9d787670879d93a10061b5eee",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part085"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part086",
+      "bytes": 16777216,
+      "sha256": "6a3aa58b374fe1c028d30d34e0cee8ee541319f3e2013940e87f0da1f5381edb",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part086"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part087",
+      "bytes": 16777216,
+      "sha256": "b96ce1d31630a5cb48c9728b70c760ab918554ed16fd1349e1dcefe808f56687",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part087"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part088",
+      "bytes": 16777216,
+      "sha256": "091f13e06c5bebd7b4c071970832ba47264144670def1b1f4ed99623823936ee",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part088"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part089",
+      "bytes": 16777216,
+      "sha256": "4159161471f3000a966612912d2680bbc7f148877594e97fd037a67ce518e565",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part089"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part090",
+      "bytes": 16777216,
+      "sha256": "c15c544b558423b9402b49bf9335bf8d6bf4aef46fff0cb8ae67662f2d6d61da",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part090"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part091",
+      "bytes": 16777216,
+      "sha256": "3dccffdb11fda120e3c1130b5d16eb4ea69fe2430354fd908d739604a0f88c9c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part091"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part092",
+      "bytes": 16777216,
+      "sha256": "df5c03f8cae3fb4b7c818c85d25f0a925cc26f6c9b2bcfbcaa84f43f9259b285",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part092"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part093",
+      "bytes": 16777216,
+      "sha256": "7c9fe341f0482e0de459cc473c40cd8e3162eb330097cdb9c965457318db6c73",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part093"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part094",
+      "bytes": 16777216,
+      "sha256": "4aaa93d94a22e974b4d13fdae31672ae700a98354a843218cd0d1e15f6048109",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part094"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part095",
+      "bytes": 16777216,
+      "sha256": "a4be4d908e9dc0b18acd92d0dc6d26af8b2f588b25bd1411fcaaab699f95ebbb",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part095"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part096",
+      "bytes": 16777216,
+      "sha256": "29a0900943dd0f8c95e75def72f9221205f725b2801f9f6c1bcbad700e7a8371",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part096"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part097",
+      "bytes": 16777216,
+      "sha256": "c88caa24ce8ab4361ca951322894ee4525d0fbe2c7b77d7db7c2235d1712de34",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part097"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part098",
+      "bytes": 16777216,
+      "sha256": "3f768c9f35708e77707d6d52c485286a3092b8136014b2c4c73bd2121dafeecc",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part098"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part099",
+      "bytes": 16777216,
+      "sha256": "2dac2f12de4dabff73435dcb62d6733759fa51bb7f9b9479af185277006003a7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part099"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part100",
+      "bytes": 16777216,
+      "sha256": "bbe77f313d6e411cc1ad2286ec1f343ed66f970bb6ef9d4027585f2c2bbb53f1",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part100"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part101",
+      "bytes": 16777216,
+      "sha256": "3742787e9f26b1c9e00ed04e1f56ea6f150b8c8e41fca6d93ae3d7850da2df53",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part101"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part102",
+      "bytes": 16777216,
+      "sha256": "105e963cd095b1cb34c63a1aca12734a0773ddbc492e4df4ace9b8e1dec2a5cf",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part102"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part103",
+      "bytes": 16777216,
+      "sha256": "7511023efe34413a48ef1487268a206aa917b441b0a3f913aa809edef973a874",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part103"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part104",
+      "bytes": 16777216,
+      "sha256": "c6db5448763f4e4c496c18a4c1e16ec4d283a6dc3ad42c58bf17bde7acc829ca",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part104"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part105",
+      "bytes": 16777216,
+      "sha256": "9f0116d99b2b37e6d10f2b92f62ea454a21415861f5fddb2549e0ac1636ec228",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part105"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part106",
+      "bytes": 16777216,
+      "sha256": "74e0e9f8ecfdee3d2c94cbb727dc658e96ef12e9fb77dd554f86e8c6712c20fc",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part106"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part107",
+      "bytes": 16777216,
+      "sha256": "792f3a10a3ff61144986d108166fa48980972d74628788a32cf28ae309798134",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part107"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part108",
+      "bytes": 16777216,
+      "sha256": "434e0040174e6724a2580b734dc091c3b5eae32d57be97d2888fa1d85baa393f",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part108"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part109",
+      "bytes": 16777216,
+      "sha256": "1dc7d71c7d1b107ba81ab45ff2e438a3385903991f489b63f11121e855d602a5",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part109"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part110",
+      "bytes": 16777216,
+      "sha256": "f505339902e085a80d4e23e5f02e129eaf5b6d7f36e42a47f6a44f679fd697c0",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part110"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part111",
+      "bytes": 16777216,
+      "sha256": "c8639f47e34f6798a6152a5484ab665a21bd32c3c0cac53c65114b119a2ef60c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part111"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part112",
+      "bytes": 16777216,
+      "sha256": "a165493633913721fefbf16f5ac33c0a0b94980e74cf16ac04e7447632d0f0e1",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part112"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part113",
+      "bytes": 16777216,
+      "sha256": "1c3ad9e0b6932eabc536ec208a7462cdfeee94d847f5e34597480e30cbf09ed0",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part113"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part114",
+      "bytes": 16777216,
+      "sha256": "ee567000fa9df80e167ae1babdd3a7d7425f08a0fd9825794aa0654cc9051e2e",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part114"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part115",
+      "bytes": 16777216,
+      "sha256": "4666bf75df29bd3d603cf69c74d6b6d8d0b36b8e5b2d0f86773b245b721413d3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part115"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part116",
+      "bytes": 16777216,
+      "sha256": "d4c2e742bc7b1870a922242663b943a5ddeb329093b2139d5272cd0eaeddd0fb",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part116"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part117",
+      "bytes": 16777216,
+      "sha256": "e4e10bcc87990e767a1aaf93166763689871efe0481d01d2b68be792a417b8b3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part117"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part118",
+      "bytes": 16777216,
+      "sha256": "6aee648fe43eac8ee1d60565a85699e4efdf006775123bfc2b3fe0e0725e44b9",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part118"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part119",
+      "bytes": 16777216,
+      "sha256": "072be05fcde9175541db53f7e2207438a207c6088e75a5733bcb7b111beda441",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part119"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part120",
+      "bytes": 16777216,
+      "sha256": "f60dbcf048da2b6db144968df286d466b0e327d489ce77b2c601daabb0c4f68c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part120"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part121",
+      "bytes": 16777216,
+      "sha256": "c5f39688d5085452308c3f82097c0ac0304af94ba9ab5bd040f8f7ba5d66c8c3",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part121"
+    },
+    {
+      "name": "current-records-20261019.tar.xz.part122",
+      "bytes": 6198396,
+      "sha256": "d959a2a2ce6b4255d13011f371f748949e4ae4697bb4b9a8cb1ee68958a613c9",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-current-records-2026-10-19/current-records-20261019.tar.xz.part122"
+    }
+  ],
+  "compression": "xz with internal preceding-file hardlinks"
+}
