@@ -1,0 +1,11 @@
+{
+  "asset": "tabular-data-20261019.tar.gz",
+  "bytes": 135300853,
+  "payload_files": 6673,
+  "payload_manifest_sha256": "53740e2042bd6791dff3a878fe30003dba70d2f55d1d7448d0c03abfe4a3a753",
+  "prediction_records": 570,
+  "selected_models": 285,
+  "sha256": "223446d274735f60c01640e9735863a167d71b94379ee926bb9ea4f8ae2f8fdf",
+  "tag": "rebuttal-tabular-2026-10-19",
+  "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.gz"
+}

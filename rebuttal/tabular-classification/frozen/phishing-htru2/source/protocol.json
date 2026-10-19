@@ -1,0 +1,24 @@
+{
+  "status": "frozen before formal calibration and held-out evaluation",
+  "dataset_preparation_sha256": "f0fe17d3d277981eacf93e86eab5f59c9aae844596fa9231fd74569ef258c4f5",
+  "training": {
+    "learning_rate": 0.1,
+    "epochs": 200,
+    "batch_size": 512,
+    "evaluate_every": 5,
+    "min_epochs": 40,
+    "patience_evaluations": 12,
+    "threads": 1,
+    "device": "cpu"
+  },
+  "selection_metric": {
+    "magic": "roc_auc",
+    "htru2": "average_precision"
+  },
+  "test_evaluation": "separate command after complete calibration and final fitting",
+  "statistics": "within-split initialization mean, then five-split sample SD",
+  "pilot_decision": "Retain Adam initial learning rate 0.1: higher validation primary metric in both prespecified IQP/T8/Ry split-0 pilots. Retain 200-epoch ceiling, validation every 5 epochs, patience 12 evaluations after at least 40 epochs. Batch size512. Pilot code precedes provenance and metric bookkeeping fixes, neither affects training math. Formal run uses reviewed corrected code.",
+  "frozen_at_utc": "2026-10-16T07:30:49.207275+00:00",
+  "execution": "A6000 server, CPU float64/complex128 training; independent CPU/CUDA output and gradient check passed",
+  "resource_decision": "Small m=1 blocks and cached moments support CPU task parallelism; 16 calibration workers and 4 classical workers, within 64-vCPU/125GiB server availability."
+}

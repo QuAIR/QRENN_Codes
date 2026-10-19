@@ -1,0 +1,60 @@
+{
+  "arms": [
+    "joint"
+  ],
+  "calibration_initializations": 2,
+  "checkpoint": "validation AP descending, probability loss ascending, epoch ascending",
+  "data_manifest_sha256": "f0fe17d3d277981eacf93e86eab5f59c9aae844596fa9231fd74569ef258c4f5",
+  "dataset": "htru2",
+  "encoders": [
+    "pauli"
+  ],
+  "features": 8,
+  "final_initializations": 3,
+  "loss": "inverse-fit-frequency weighted original probability loss",
+  "mode": "formal",
+  "precision": "float64/complex128",
+  "probe": "product_ry_joint_calibration_and_final",
+  "processing_qubits": [
+    1,
+    2
+  ],
+  "rows": 17898,
+  "scales": [
+    0.25,
+    1.0,
+    3.141592653589793,
+    6.283185307179586
+  ],
+  "scheduler": {
+    "factor": 0.5,
+    "min_lr": 0.002,
+    "patience": 4
+  },
+  "schema": "a07-htru2-capacity-v1",
+  "selection": "validation AP descending, probability loss ascending; scale or init ascending; overall smaller m then T",
+  "slots": [
+    8,
+    16,
+    32
+  ],
+  "splits": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "statistics": "three-init mean in each split, then five-split mean and sample SD",
+  "test_status": "exploratory; historical test partitions previously inspected",
+  "training": {
+    "batch_size": 512,
+    "device": "cpu",
+    "epochs": 200,
+    "evaluate_every": 5,
+    "learning_rate": 0.1,
+    "min_epochs": 40,
+    "patience_evaluations": 12,
+    "threads": 1
+  }
+}

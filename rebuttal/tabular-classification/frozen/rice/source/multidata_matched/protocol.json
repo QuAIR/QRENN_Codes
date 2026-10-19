@@ -1,0 +1,204 @@
+{
+  "schema": "qrenn-a07-multidata-protocol-v1",
+  "scope": "Exploratory Online Shoppers/Rice matched-circuit extension",
+  "resamples": 5,
+  "initializations": 3,
+  "seed_base": 82000,
+  "seed_resample_stride": 100,
+  "shuffle_seed_offset": 1000000,
+  "arms": [
+    "fixed"
+  ],
+  "model": {
+    "m": 2,
+    "T": 8,
+    "scale": 1.0,
+    "processing": "nine original SU(4) blocks, 15 original Gell-Mann generators each",
+    "queries": "alternating U/U-dagger, controlled on processing |11>; same U(x) at every query",
+    "readout": "ZZ; positive score favors class 1",
+    "eigenvalues": "exp(2*pi*i*pad(a,0,2**n-d))",
+    "probe": "sqrt(softmax([0,2**n-1 trainable logits]))",
+    "n": "ceil(log2(d))"
+  },
+  "preprocessing": "All released raw attributes; Shoppers last seven nominal attributes use fit-only one-hot vocabulary and unknown all-zero; fit-only StandardScaler on transformed features; a=0.5+atan(z)/pi; no PCA or feature selection",
+  "training": {
+    "epochs": 1000,
+    "batch_size": 512,
+    "theta_lr": 0.1,
+    "probe_lr": 0.01,
+    "optimizer": "Adam with unchanged PyTorch defaults",
+    "loss": "mean(w_y*(1-(2*y-1)*score)/2); w_y=N_fit/(2*N_fit_class)",
+    "scheduler": "ReduceLROnPlateau on validation probability loss",
+    "lr_factor": 0.5,
+    "lr_patience": 4,
+    "minimum_lrs": [
+      0.002,
+      0.0002
+    ],
+    "assess_every": 5,
+    "epoch_zero_scheduler_step": true,
+    "early_stopping": false,
+    "best_key": [
+      "descending_validation_primary_metric",
+      "ascending_validation_probability_loss",
+      "ascending_epoch"
+    ],
+    "device": "cpu",
+    "real_dtype": "float64",
+    "complex_dtype": "complex128",
+    "torch_threads": 1,
+    "checkpoint_every_epoch": true
+  },
+  "reporting": {
+    "primary": "AP for Online Shoppers; ROC-AUC for Rice",
+    "aggregation": "mean three starts within each resample; mean and sample SD over five development resamples with shared fixed test population",
+    "interpretation": "Exploratory finite-comparator benchmark; SD is model/resample variation, not independent test uncertainty",
+    "threshold": 0.0
+  },
+  "datasets": [
+    "shoppers",
+    "rice"
+  ],
+  "split": {
+    "test_fraction": 0.2,
+    "outer_seed": 39001,
+    "validation_fraction_of_development": 0.25,
+    "validation_seeds": [
+      39011,
+      39012,
+      39013,
+      39014,
+      39015
+    ]
+  },
+  "primary_metrics": {
+    "phishing": "roc_auc",
+    "magic": "roc_auc",
+    "htru2": "average_precision",
+    "spambase": "roc_auc",
+    "shoppers": "average_precision",
+    "rice": "roc_auc"
+  },
+  "kernels": {
+    "arms": [
+      "initial",
+      "trained"
+    ],
+    "methods": [
+      "fidelity",
+      "projected"
+    ],
+    "C": [
+      0.1,
+      1,
+      10,
+      100
+    ],
+    "multipliers": [
+      0.1,
+      1,
+      10
+    ],
+    "projected_gamma": "multiplier/(p*Var(flattened fitting Pauli features,ddof=0))",
+    "svc": {
+      "kernel": "precomputed",
+      "class_weight": "balanced",
+      "tol": 0.001,
+      "cache_size": 512,
+      "max_iter": -1
+    },
+    "candidate_order": "C major; multiplier minor",
+    "selection": "descending validation primary metric, first candidate index",
+    "threshold": 0.0,
+    "refit": false
+  },
+  "classical": {
+    "methods": [
+      "lr_standardized",
+      "lr_angles",
+      "rbf_svm",
+      "gradient_boosting"
+    ],
+    "lr_C": [
+      0.01,
+      0.1,
+      1,
+      10,
+      100
+    ],
+    "lr": {
+      "solver": "lbfgs",
+      "tol": 1e-08,
+      "max_iter": 5000,
+      "class_weight": "balanced"
+    },
+    "rbf_C": [
+      0.1,
+      1,
+      10,
+      100
+    ],
+    "rbf_gamma_multipliers": [
+      0.1,
+      1,
+      10
+    ],
+    "rbf": {
+      "kernel": "rbf",
+      "tol": 0.001,
+      "cache_size": 512,
+      "max_iter": -1,
+      "class_weight": "balanced"
+    },
+    "hgb_learning_rate": [
+      0.05,
+      0.1
+    ],
+    "hgb_leaves": [
+      7,
+      15,
+      31
+    ],
+    "hgb_l2": [
+      0,
+      1
+    ],
+    "hgb": {
+      "max_iter": 300,
+      "early_stopping": false,
+      "random_state": "39011+resample",
+      "sample_weight": "fitting inverse class frequency"
+    },
+    "selection": "descending validation primary metric, first candidate index",
+    "refit": false
+  },
+  "evaluation": {
+    "selected_counts": {
+      "qrenn": 30,
+      "kernel": 120,
+      "classical": 40,
+      "total": 190
+    },
+    "bundle_counts": {
+      "qrenn": 30,
+      "kernel": 60,
+      "classical": 10
+    },
+    "freeze": "explicit controller operation after all complete selected models; no automatic test access",
+    "metrics": [
+      "roc_auc",
+      "average_precision",
+      "accuracy",
+      "balanced_accuracy"
+    ],
+    "independent_replay": "NumPy/SciPy full states and direct Pauli contractions from saved raw features, Gell-Mann generators, parameters and support rows",
+    "score_atol": 2e-10,
+    "round_predictions": false,
+    "svm_score_atol": 2e-08,
+    "numerical_policy": "Predeclared before new-campaign fitting: absolute SVM 2e-8, other scores 2e-10, rtol 0; classification disagreements fail; preserve exact scores and all rank/metric discrepancies"
+  },
+  "registers": {
+    "shoppers": 7,
+    "rice": 3
+  }
+}

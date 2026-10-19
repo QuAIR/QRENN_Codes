@@ -1,0 +1,32 @@
+{
+  "schema": "a07-magic-embedding-v1",
+  "mode": "formal",
+  "dataset": "magic",
+  "features": 10,
+  "rows": 19020,
+  "splits": [0, 1, 2, 3, 4],
+  "slots": [4, 4, 4, 8, 8],
+  "encoders": ["angle", "diagonal", "iqp", "pauli"],
+  "scales": [0.25, 1.0, 3.141592653589793, 6.283185307179586],
+  "calibration_initializations": 2,
+  "final_initializations": 3,
+  "data_manifest_sha256": "f0fe17d3d277981eacf93e86eab5f59c9aae844596fa9231fd74569ef258c4f5",
+  "training": {
+    "learning_rate": 0.1,
+    "epochs": 200,
+    "batch_size": 512,
+    "evaluate_every": 5,
+    "min_epochs": 40,
+    "patience_evaluations": 12,
+    "threads": 1,
+    "device": "cpu"
+  },
+  "scheduler": {"factor": 0.5, "patience": 4, "min_lr": 0.002},
+  "precision": "float64/complex128",
+  "loss": "unweighted probability loss",
+  "probe": "product_ry_joint_calibration_and_final",
+  "selection": "validation ROC-AUC descending, probability loss ascending; scale ascending or init ascending",
+  "checkpoint": "validation ROC-AUC descending, probability loss ascending, epoch ascending",
+  "statistics": "three-init mean in each split, then five-split mean and sample SD",
+  "test_status": "exploratory; historical test partitions previously inspected"
+}

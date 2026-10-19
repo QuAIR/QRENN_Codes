@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-19",
+  "status": "passed",
+  "archive_sha256": "223446d274735f60c01640e9735863a167d71b94379ee926bb9ea4f8ae2f8fdf",
+  "runtime": {
+    "platform": "macOS-26.5.1-arm64-arm-64bit",
+    "python": "3.12.13",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "torch": "2.5.1",
+    "threadpoolctl": "3.6.0",
+    "joblib": "1.6.0"
+  },
+  "checks": [
+    {
+      "payload_files_verified": 6673
+    },
+    {
+      "campaign": "phishing-htru2",
+      "bundles_verified": 100,
+      "prediction_records": 380,
+      "metric_checks": 1520,
+      "derived_angle_hash_differences": 200,
+      "replayed_predictions": 36,
+      "largest_replay_score_error": 6.363052307278849e-10,
+      "replay_classification_disagreements": 0,
+      "replay_rank_disagreements": 373,
+      "runtime_warning_counts": {
+        "divide by zero encountered in matmul": 98,
+        "overflow encountered in matmul": 98,
+        "invalid value encountered in matmul": 98
+      }
+    },
+    {
+      "campaign": "rice",
+      "bundles_verified": 50,
+      "prediction_records": 190,
+      "metric_checks": 760,
+      "derived_angle_hash_differences": 100,
+      "replayed_predictions": 18,
+      "largest_replay_score_error": 2.155076117560384e-11,
+      "replay_classification_disagreements": 0,
+      "replay_rank_disagreements": 0,
+      "runtime_warning_counts": {
+        "divide by zero encountered in matmul": 32,
+        "overflow encountered in matmul": 32,
+        "invalid value encountered in matmul": 32
+      }
+    }
+  ],
+  "new_training": false,
+  "training_configurations_checked": [
+    "phishing/r0/i0",
+    "htru2/r0/i0",
+    "rice/r0/i0"
+  ],
+  "scope": "All payload files, saved candidate selections and selected prediction metrics were verified. Replay covers 54 of 570 prediction records; full retraining was not performed.",
+  "numerical_notes": "Raw inputs, scalers and standardized features match their archived byte identities. Recomputed arctangent hashes differ on this platform. Replay scores remain within the original per-method tolerances, with zero classification disagreements. Rank differences and runtime warnings are recorded above; published metrics use the original saved scores."
+}

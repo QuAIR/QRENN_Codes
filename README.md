@@ -1,6 +1,10 @@
 # QRENN_Codes
 The experimental codes and programs for QRENN project
 
+The [tabular rebuttal archive](rebuttal/tabular-classification/) provides source,
+model records, predictions and reproduction instructions for the Phishing,
+HTRU2 and Rice comparisons in the revised manuscript.
+
 ## Table of Contents
 1. [Overview](#overview)
 3. [Repository Structure](#repository-structure)

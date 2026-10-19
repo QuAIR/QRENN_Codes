@@ -1,0 +1,35 @@
+{
+  "campaigns": [
+    {
+      "archive_sha256": "e51b75a40c1618217be61ced7ba6bab3b4d202185a40e0093b840980811b0b7f",
+      "bundles": 100,
+      "campaign": "phishing-htru2",
+      "datasets": [
+        "phishing",
+        "htru2"
+      ],
+      "selected_models": 190,
+      "snapshot_sha256": "8e725c8bc416e70833e53444f5678fa8eef406616a0ffbcac41a91033bc0ff0f",
+      "source_files": 44
+    },
+    {
+      "archive_sha256": "65fd8e4c2265c67396e61a3b762ebff80e8a552cfc3f05e131eb4db2f5c50633",
+      "bundles": 50,
+      "campaign": "rice",
+      "datasets": [
+        "rice"
+      ],
+      "selected_models": 95,
+      "snapshot_sha256": "7745995d0758de8e8c968445f1576c3f2928bd98af035b7a5d3e1be8ff2e22ba",
+      "source_files": 50
+    }
+  ],
+  "datasets": [
+    "phishing",
+    "htru2",
+    "rice"
+  ],
+  "new_training": false,
+  "note": "Model, source, raw-data and prediction bytes are retained. CSVs and subset indices contain only the three manuscript datasets. Native protocols and data manifests retain their original bytes for authentication.",
+  "schema": "qrenn-tabular-release-v1"
+}

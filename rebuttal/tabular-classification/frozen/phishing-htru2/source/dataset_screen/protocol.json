@@ -1,0 +1,306 @@
+{
+  "schema": "qrenn-a07-dataset-screen-v1",
+  "datasets": [
+    "phishing",
+    "spambase"
+  ],
+  "primary_metric": "roc_auc",
+  "secondary_metrics": [
+    "average_precision",
+    "accuracy",
+    "balanced_accuracy",
+    "validation_balanced_threshold_accuracy"
+  ],
+  "features": "all_original_features_no_pca_or_selection",
+  "positive_score_label": 1,
+  "split": {
+    "unit": "exact_feature_group",
+    "majority_tie_label": 0,
+    "test_fraction": 0.2,
+    "outer_seed": 39001,
+    "validation_fraction_of_development": 0.25,
+    "validation_seeds": [
+      39011,
+      39012,
+      39013,
+      39014,
+      39015
+    ]
+  },
+  "transform": {
+    "standardizer": "sklearn.preprocessing.StandardScaler_fit_only",
+    "angles": "0.5+atan((x-mean_fit)/scale_fit)/pi"
+  },
+  "qrenn": {
+    "families": [
+      "angle_product",
+      "iqp_product",
+      "diagonal_product",
+      "diagonal_joint"
+    ],
+    "processing_qubits": 2,
+    "processing": "exp(+i sum theta G), unchanged 15 Gell-Mann order",
+    "input": "00",
+    "query_control": "11",
+    "alternation": [
+      "U",
+      "Udagger"
+    ],
+    "readout": "ZZ",
+    "diagonal_phase_factor": 6.283185307179586,
+    "joint_fixed_first_logit": 0
+  },
+  "screening": {
+    "resample": 0,
+    "T": [
+      8,
+      16
+    ],
+    "scales": [
+      0.25,
+      1.0
+    ],
+    "starts": 2,
+    "seeds": [
+      81000,
+      81001
+    ],
+    "epochs": 300,
+    "shuffle_seed_offset": 1000000,
+    "selection": [
+      "descending_mean_validation_roc_auc",
+      "ascending_mean_validation_weighted_probability_loss",
+      "ascending_T",
+      "family_order",
+      "ascending_scale"
+    ]
+  },
+  "final": {
+    "resamples": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "starts": 3,
+    "seed_formula": "82000+100*resample+init",
+    "seeds": [
+      [
+        82000,
+        82001,
+        82002
+      ],
+      [
+        82100,
+        82101,
+        82102
+      ],
+      [
+        82200,
+        82201,
+        82202
+      ],
+      [
+        82300,
+        82301,
+        82302
+      ],
+      [
+        82400,
+        82401,
+        82402
+      ]
+    ],
+    "shuffle_seed_offset": 1000000,
+    "milestones": [
+      1000,
+      1500,
+      2000
+    ],
+    "plateau_relative_improvement_max": 0.005,
+    "plateau_earlier_epoch_offsets": [
+      -195,
+      -150
+    ],
+    "plateau_recent_epoch_offsets": [
+      -45,
+      0
+    ],
+    "plateau_window_assessments": 10,
+    "best_epoch_age_min": 100,
+    "max_epochs": 2000,
+    "refit": false,
+    "gradient_norm_epochs": [
+      0,
+      200,
+      500,
+      1000,
+      1500,
+      2000
+    ]
+  },
+  "training": {
+    "loss": "mean(w_y*(1-(2*y-1)*score)/2)",
+    "class_weight": "N_fit/(2*N_fit_class)",
+    "optimizer": "Adam",
+    "theta_lr": 0.1,
+    "probe_lr": 0.01,
+    "batch_size": 512,
+    "assessment_interval": 5,
+    "assessment_includes_epoch_zero": true,
+    "scheduler": "ReduceLROnPlateau",
+    "scheduler_metric": "validation_weighted_probability_loss",
+    "scheduler_factor": 0.5,
+    "scheduler_patience": 4,
+    "min_lr_initial_fraction": 0.02,
+    "checkpoint_key": [
+      "negative_validation_roc_auc",
+      "validation_weighted_probability_loss",
+      "epoch"
+    ]
+  },
+  "classical": {
+    "LR": {
+      "representations": [
+        "standardized",
+        "angles"
+      ],
+      "C": [
+        0.01,
+        0.1,
+        1,
+        10,
+        100
+      ],
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-08
+    },
+    "RBF_SVM": {
+      "representation": "standardized",
+      "C": [
+        0.1,
+        1,
+        10,
+        100
+      ],
+      "gamma_multipliers": [
+        0.1,
+        1,
+        10
+      ],
+      "gamma_denominator": "d",
+      "tol": 0.001
+    },
+    "HistGradientBoosting": {
+      "representation": "standardized",
+      "learning_rate": [
+        0.05,
+        0.1
+      ],
+      "max_leaf_nodes": [
+        7,
+        15,
+        31
+      ],
+      "l2_regularization": [
+        0,
+        1
+      ],
+      "max_iter": 300,
+      "early_stopping": false
+    },
+    "selection": "descending_validation_roc_auc_then_first_grid_index",
+    "native_objectives": true,
+    "same_fit_rows_and_class_weights": true,
+    "refit": false
+  },
+  "quantum": {
+    "families": [
+      "fidelity",
+      "projected"
+    ],
+    "powers": [
+      1,
+      2
+    ],
+    "scales": [
+      0.25,
+      1.0
+    ],
+    "C": [
+      0.1,
+      1,
+      10,
+      100
+    ],
+    "projected_gamma_multipliers": [
+      0.1,
+      1,
+      10
+    ],
+    "projected_gamma_denominator": "3*d*Var(flattened_fitting_projected_features,ddof=0)",
+    "svm": {
+      "kernel": "precomputed",
+      "tol": 0.001,
+      "cache_size": 512,
+      "max_iter": -1
+    },
+    "precision": "float64_complex128",
+    "block_size": 256,
+    "candidate_tie_order": [
+      "power",
+      "scale",
+      "C",
+      "gamma_multiplier"
+    ],
+    "strong_comparator_order": [
+      "fidelity",
+      "projected"
+    ],
+    "execution": "exact_classical_simulation"
+  },
+  "evaluation": {
+    "freeze_before_test": true,
+    "recommendation": "max_mean_validation_qrenn_minus_selected_quantum_gap",
+    "dataset_tie_order": [
+      "phishing",
+      "spambase"
+    ],
+    "test_both_datasets": true,
+    "qrenn_aggregation": "mean_three_starts_within_resample_then_mean_and_sample_sd_over_five_resamples",
+    "test_gap_criterion": -0.01,
+    "test_partition": "one_common_partition_per_dataset",
+    "bootstrap_unit": "held_out_exact_feature_group_with_original_multiplicities",
+    "bootstrap_replicates": 2000,
+    "bootstrap_seed": 92017,
+    "bootstrap_percentiles": [
+      2.5,
+      97.5
+    ],
+    "bootstrap_scope": "conditional_on_fixed_test_and_selected_configurations",
+    "formal_noninferiority_test": false,
+    "default_labels": "score>=0",
+    "score_convention": "native decision_function or 2*P(y=1)-1",
+    "validation_balanced_threshold": {
+      "candidates": "unique_validation_scores_and_nextafter(max_score,+inf)",
+      "selection": [
+        "maximum_balanced_accuracy",
+        "minimum_absolute_threshold",
+        "higher_threshold"
+      ],
+      "persist_before_test": true
+    }
+  },
+  "resources": {
+    "equal_training_or_search_cost_claim": false
+  },
+  "evidence": {
+    "atomic_completion": true,
+    "resume_requires_matching_identity": true,
+    "test_requires_all_final_completions_and_freeze": true,
+    "independent_physical_verification": true,
+    "retain_all_candidates_and_negative_results": true
+  }
+}

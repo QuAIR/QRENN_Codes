@@ -1,0 +1,45 @@
+{
+  "schema": "qrenn-a07-matched-kernel-protocol-v1",
+  "dataset": "phishing",
+  "arms": ["initial", "trained"],
+  "checkpoint_stages": {"initial": "initial", "trained": "best"},
+  "resamples": 5,
+  "initializations": 3,
+  "model": {
+    "n": 5, "m": 2, "T": 8, "features": 30, "scale": 1.0,
+    "basis": "processing-most-significant; qubit0 most significant",
+    "processing_input": "00", "query_control": "11",
+    "query_order": "alternating U,Udagger", "processing_blocks": 9,
+    "gell_mann_generators": 15, "probe": "sqrt(softmax([0,31 logits]))",
+    "eigenvalues": "exp(2*pi*i*pad(0.5+atan(z)/pi,0,2))"
+  },
+  "preprocessing": "all original features and duplicate multiplicities; authenticated existing development splits; fit-only StandardScaler; no PCA or feature selection",
+  "kernels": {
+    "fidelity": "abs(inner product of full pure output states)**2",
+    "projected": "Gaussian on all 21 local Pauli expectations followed by original processing ZZ",
+    "projected_feature_count": 22,
+    "gamma": "multiplier/(22*Var(flattened fitting features,ddof=0))",
+    "same_state_per_job": true,
+    "block_size": 256
+  },
+  "svm": {
+    "kernel": "precomputed", "class_weight": "balanced", "tol": 0.001,
+    "cache_size": 512, "max_iter": -1,
+    "C": [0.1, 1.0, 10.0, 100.0],
+    "multipliers": [0.1, 1.0, 10.0],
+    "order": "C-major, then gamma multiplier",
+    "selection": ["descending validation ROC-AUC", "ascending original candidate index"],
+    "refit": false, "decision_threshold": 0.0, "threshold_optimization": false
+  },
+  "execution": {"device": "cpu", "real_dtype": "float64", "complex_dtype": "complex128", "threads": 1, "shots": null, "noise": false, "quantum_parameter_updates": false},
+  "gates": {"trained_ZZ_atol": 2e-10, "atan_atol_float64_eps": 2, "atan_rtol": 0.0, "raw_parameter_identity": "exact dtype, shape and bytes", "formal_overrides": false, "held_out_access": false},
+  "accounting": {"jobs": 30, "candidates_per_job": 16, "total_candidates": 480, "selected_models": 60, "state_preparation_queries": 8, "overlap_queries": 16, "measurement_bases_up_to": 3, "no_equal_total_hardware_cost_claim": true},
+  "reporting": {
+    "metrics": ["roc_auc", "average_precision", "accuracy", "balanced_accuracy"],
+    "primary": "validation ROC-AUC",
+    "aggregation": "average three starts within resample; mean and sample SD over five overlapping resamples",
+    "scope": "exploratory development results after previous test observation",
+    "trained_arm": "validation-selected QRENN checkpoint readout diagnostic; not independent test confirmation or conventional label-independent kernel",
+    "initial_ZZ": "raw diagnostic only; not trained accuracy"
+  }
+}
