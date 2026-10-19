@@ -1,11 +1,61 @@
 {
-  "asset": "tabular-data-20261019.tar.gz",
-  "bytes": 135300853,
+  "asset": "tabular-data-20261019.tar.xz",
+  "bytes": 59282692,
+  "parts": [
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part01",
+      "sha256": "1d3049eee998eee3429a0dce0cce903f01ebbf1a88592e8a3146d2bdf124d553",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part01"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part02",
+      "sha256": "b5395c49d77cd017599fad02e5c26990492293fc66eb8cc9acf1a327b31a06ee",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part02"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part03",
+      "sha256": "bed083217b0662f6d01f84f7bb0a73124e2458c51aaf0a63fbb10dcea942086c",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part03"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part04",
+      "sha256": "000c3b04b5a685039288acc40822744761fb4bf33dc8e1255049ad2c3b554c92",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part04"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part05",
+      "sha256": "6a74b976438cd6501848d62580eb1853f8ad3b372967d36f96229c98ac0952da",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part05"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part06",
+      "sha256": "7e3539c1e4c3ca1a702bdf1b3a3715dbf06c978c7cfbbb9103dd0a00799104a7",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part06"
+    },
+    {
+      "bytes": 8388608,
+      "name": "tabular-data-20261019.tar.xz.part07",
+      "sha256": "98fd500dd4ea04930f0c784f79abb4e4d95f7a67b44ddbb00f5532e3e278c104",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part07"
+    },
+    {
+      "bytes": 562436,
+      "name": "tabular-data-20261019.tar.xz.part08",
+      "sha256": "6b112326a2cd06df8c881ff94b9485e67ef3f2e0839b45e70fa6a5b2c55f4354",
+      "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.xz.part08"
+    }
+  ],
   "payload_files": 6673,
   "payload_manifest_sha256": "53740e2042bd6791dff3a878fe30003dba70d2f55d1d7448d0c03abfe4a3a753",
   "prediction_records": 570,
   "selected_models": 285,
-  "sha256": "223446d274735f60c01640e9735863a167d71b94379ee926bb9ea4f8ae2f8fdf",
+  "sha256": "382a70cca9b3b8df30b776692362884374700e083586caebfeb84181a9e0fbfb",
   "tag": "rebuttal-tabular-2026-10-19",
-  "url": "https://github.com/QuAIR/QRENN_Codes/releases/download/rebuttal-tabular-2026-10-19/tabular-data-20261019.tar.gz"
+  "transport": "XZ archive with byte-identical files stored once using internal hard links; eight downloadable parts are assembled automatically."
 }

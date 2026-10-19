@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "status": "passed",
-  "archive_sha256": "223446d274735f60c01640e9735863a167d71b94379ee926bb9ea4f8ae2f8fdf",
+  "archive_sha256": "382a70cca9b3b8df30b776692362884374700e083586caebfeb84181a9e0fbfb",
   "runtime": {
     "platform": "macOS-26.5.1-arm64-arm-64bit",
     "python": "3.12.13",
@@ -56,5 +56,12 @@
     "rice/r0/i0"
   ],
   "scope": "All payload files, saved candidate selections and selected prediction metrics were verified. Replay covers 54 of 570 prediction records; full retraining was not performed.",
-  "numerical_notes": "Raw inputs, scalers and standardized features match their archived byte identities. Recomputed arctangent hashes differ on this platform. Replay scores remain within the original per-method tolerances, with zero classification disagreements. Rank differences and runtime warnings are recorded above; published metrics use the original saved scores."
+  "numerical_notes": "Raw inputs, scalers and standardized features match their archived byte identities. Recomputed arctangent hashes differ on this platform. Replay scores remain within the original per-method tolerances, with zero classification disagreements. Rank differences and runtime warnings are recorded above; published metrics use the original saved scores.",
+  "transport_verification": {
+    "format": "xz with internal hard links",
+    "parts": 8,
+    "payload_files_verified": 6673,
+    "payload_manifest_unchanged": true,
+    "multipart_download_assembly_and_extraction": "passed"
+  }
 }

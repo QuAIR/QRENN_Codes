@@ -1,6 +1,7 @@
 """Download, check and replay the three published tabular datasets."""
 from pathlib import Path
-import argparse, hashlib, json, os, subprocess, sys, tarfile, urllib.request
+import argparse, hashlib, json, os, shutil, subprocess, sys, tarfile, urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 HERE = Path(__file__).resolve().parent
 RELEASE = json.loads((HERE / 'release.json').read_text())
@@ -14,20 +15,42 @@ def fetch(destination):
     destination.mkdir(parents=True, exist_ok=True)
     archive = destination / RELEASE['asset']
     if not archive.exists():
-        partial = archive.with_suffix('.part')
-        urllib.request.urlretrieve(RELEASE['url'], partial)
-        if digest(partial) != RELEASE['sha256']:
-            raise ValueError('Downloaded archive checksum differs')
-        partial.rename(archive)
+        def download(record):
+            path = destination/record['name']
+            if not path.exists():
+                partial = path.with_suffix(path.suffix+'.download')
+                urllib.request.urlretrieve(record['url'], partial)
+                if digest(partial) != record['sha256']:
+                    raise ValueError('Downloaded part checksum differs: '+record['name'])
+                partial.rename(path)
+            if digest(path) != record['sha256']:
+                raise ValueError('Part checksum differs: '+record['name'])
+            return path
+        if 'parts' in RELEASE:
+            with ThreadPoolExecutor(max_workers=8) as pool:
+                parts = list(pool.map(download, RELEASE['parts']))
+            partial = archive.with_suffix(archive.suffix+'.assembling')
+            with partial.open('wb') as f:
+                for part in parts:
+                    with part.open('rb') as source: shutil.copyfileobj(source, f)
+            if digest(partial) != RELEASE['sha256']:
+                raise ValueError('Assembled archive checksum differs')
+            partial.rename(archive)
+        else:
+            download(dict(name=RELEASE['asset'], url=RELEASE['url'], sha256=RELEASE['sha256']))
     if digest(archive) != RELEASE['sha256']:
         raise ValueError('Archive checksum differs')
     if (destination / 'tabular-data').exists():
         raise ValueError('Extraction destination exists; use verify or a new directory')
     with tarfile.open(archive) as t:
+        regular_files = set()
         for m in t.getmembers():
             p = Path(m.name)
-            if p.is_absolute() or '..' in p.parts or not (m.isdir() or m.isfile()):
+            if p.is_absolute() or '..' in p.parts or not (m.isdir() or m.isfile() or m.islnk()):
                 raise ValueError('Unexpected archive path or type')
+            if m.islnk() and m.linkname not in regular_files:
+                raise ValueError('Archive hard link must target a preceding regular file')
+            if m.isfile(): regular_files.add(m.name)
         t.extractall(destination, filter='data')
     print(destination / 'tabular-data')
 

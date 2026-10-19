@@ -42,7 +42,10 @@ python3.12 -m venv .venv
 .venv/bin/python reproduce.py replay --data downloads/tabular-data
 ```
 
-The download is about 135 MB. No GitHub account is needed. `verify` checks every
+The download is about 59 MB in eight parts, assembled and checked automatically.
+Identical files are stored once in the archive using internal hard links; all
+6,673 payload files retain their recorded checksums. No GitHub account is
+needed. `verify` checks every
 payload file, the original source and bundle identities, split disjointness,
 all saved validation selections, all 570 prediction records and their aggregate
 metrics. Raw inputs, scalers and standardized features must match exactly.
