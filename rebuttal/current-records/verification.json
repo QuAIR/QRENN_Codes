@@ -22,10 +22,12 @@
     "public_assets_verified": 487,
     "all_public_asset_sizes_and_sha256_match": true,
     "local_part_assembly_sha256_matches": true,
-    "retained_complete_local_archive": true,
+    "retained_complete_local_archive": false,
     "release_url": "https://github.com/QuAIR/QRENN_Codes/releases/tag/rebuttal-current-records-2026-10-19",
     "legacy_files_recovered": 14,
-    "verified_utc": "2026-10-21T11:29:15Z"
+    "verified_utc": "2026-10-21T11:29:15Z",
+    "local_archive_removed_after_verification_utc": "2026-10-21T13:21:26Z",
+    "archive_availability": "Complete archive remains published in GitHub Release; local transfer and backup copies removed at the authors request after checksum and restoration checks."
   },
   "frozen_input_and_source_references_verified": 1958
 }
