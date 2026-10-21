@@ -3,8 +3,29 @@
   "native_manifest_hash_mismatches": [],
   "source_versions_recovered": 46,
   "local_file_inventory": 10110,
-  "public_restore": "pending publication and complete anonymous download",
+  "public_restore": {
+    "complete": false,
+    "anonymous_download": false,
+    "verified_download_parts": 380,
+    "total_download_parts": 486,
+    "status": "Anonymous download stopped before completion. Full local restoration and all public asset digests were verified separately."
+  },
   "scientific_retraining": false,
   "prediction_replay": false,
-  "statistics_recomputed": false
+  "statistics_recomputed": false,
+  "recovery_verification": {
+    "complete_local_restore": true,
+    "payload_files_verified": 10110,
+    "logical_bytes": 8401239408,
+    "archive_sha256": "7301b9fce8bfc422dfac84b9903830d88423296d4caddb046fd9d2ee8f58ef9d",
+    "manifest_sha256": "1184748ab32b0403ccc6a9aa77b01100d6e6cb0cc71e450c0bb0f8f41abace94",
+    "public_assets_verified": 487,
+    "all_public_asset_sizes_and_sha256_match": true,
+    "local_part_assembly_sha256_matches": true,
+    "retained_complete_local_archive": true,
+    "release_url": "https://github.com/QuAIR/QRENN_Codes/releases/tag/rebuttal-current-records-2026-10-19",
+    "legacy_files_recovered": 14,
+    "verified_utc": "2026-10-21T11:29:15Z"
+  },
+  "frozen_input_and_source_references_verified": 1958
 }
